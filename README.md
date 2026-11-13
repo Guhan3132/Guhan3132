@@ -23,4 +23,4 @@ I design enterprise AI products and prototype & ship them in code.
 **AI tools:** Claude Code · Cursor · Lovable
 
 ### 🔗 Find me
-[Portfolio]([portfolio link]) · [LinkedIn]([linkedin link])
+[Portfolio](https://guhan-product-design.framer.website/) · [LinkedIn](https://www.linkedin.com/in/guhan-s-4227b8177/)
