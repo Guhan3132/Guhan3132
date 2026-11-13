@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Guhan 👋
 
-<!--
-**Guhan3132/Guhan3132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Product Designer · AI Design Engineer**
+I design enterprise AI products and prototype & ship them in code.
 
-Here are some ideas to get you started:
+`Design System → Design → Code` is how I take ideas from concept to live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔨 What I'm building
+- **[Agentic Component]([repo link])** — live, copyable UX patterns for AI agents. React + Tailwind + shadcn registry components you can feel before you build them. → [Live demo]([demo link])
+- More AI-built projects in progress.
+
+### 💼 What I do
+- 5 years designing enterprise B2B SaaS at Ramco Systems
+- Led design for **Chia**, an AI support assistant now in production (−40% resolution time)
+- Built **RXDS**, the company design system, from scratch
+- Prototype in code with Claude Code and Cursor to test real behaviour early
+
+### 🧰 Stack
+**Design:** Figma · FigJam · Framer · Maze
+**Code:** HTML · CSS · TypeScript · React · Tailwind CSS · shadcn/ui
+**AI tools:** Claude Code · Cursor · Lovable
+
+### 🔗 Find me
+[Portfolio]([portfolio link]) · [LinkedIn]([linkedin link])
